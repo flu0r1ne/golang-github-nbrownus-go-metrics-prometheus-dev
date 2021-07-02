@@ -1,0 +1,14 @@
+Package: golang-github-nbrownus-go-metrics-prometheus-dev
+Source: golang-github-nbrownus-go-metrics-prometheus
+Version: 0.0~git20210317.6474303-1
+Architecture: all
+Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Installed-Size: 27
+Section: devel
+Priority: optional
+Homepage: https://github.com/nbrownus/go-metrics-prometheus
+Description: Prometheus support for go-metrics with addtional metrics for nebula (library)
+ .
+ This is a reporter for the go-metrics library which will post the metrics
+ to the prometheus client registry. This is expressly for supporting prometheus
+ metrics from within nebula.

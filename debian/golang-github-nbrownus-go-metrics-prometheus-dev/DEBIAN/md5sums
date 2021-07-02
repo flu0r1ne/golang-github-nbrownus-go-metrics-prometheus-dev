@@ -1,0 +1,4 @@
+83ea4dde75749ca5b17a5d845088e378  usr/share/doc/golang-github-nbrownus-go-metrics-prometheus-dev/changelog.Debian.gz
+7afc50cf92d7f5b0c8e36a2ca41d1d2c  usr/share/doc/golang-github-nbrownus-go-metrics-prometheus-dev/copyright
+f9344490efec0e2c215ddfbbdc562873  usr/share/gocode/src/github.com/nbrownus/go-metrics-prometheus/prometheusmetrics.go
+7227b9396c6a4a332019386f4176317d  usr/share/gocode/src/github.com/nbrownus/go-metrics-prometheus/prometheusmetrics_test.go
